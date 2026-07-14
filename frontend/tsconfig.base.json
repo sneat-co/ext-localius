@@ -18,8 +18,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@sneat/extension-template-contract": [
-        "./libs/extensions/template/contract/src/index.ts"
+      "@sneat/extension-localius-contract": [
+        "./libs/extensions/localius/contract/src/index.ts"
       ]
     }
   },

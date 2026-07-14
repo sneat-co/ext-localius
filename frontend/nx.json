@@ -44,11 +44,11 @@
   },
   "release": {
     "projects": [
-      "ext-template-contract"
+      "ext-localius-contract"
     ],
     "projectsRelationship": "fixed",
     "version": {
-      "preVersionCommand": "pnpm nx build ext-template-contract"
+      "preVersionCommand": "pnpm nx build ext-localius-contract"
     },
     "releaseTagPattern": "v{version}",
     "changelog": {

@@ -1,5 +1,5 @@
 import { IListGroup } from './list-group';
 
-export interface ITemplateSpaceDbo {
+export interface ILocaliusSpaceDbo {
   listGroups?: IListGroup[];
 }
